@@ -1,2 +1,2 @@
 # libkeyvalue-dotnet
-CRUD operations for various key-value databases
+CRUD operations in .NET for various key-value databases
